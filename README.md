@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @J-paredes
-- 👀 I’m interested in biochemical data analysis.
-- 🌱 I’m currently learning mass spectrometry tools to analyze and transform data.
-- 💞️ I’m looking to collaborate on data analysis.
-- 📫 How to reach me 
+- 👀 I’m interested in developing software for projects involving mass spectrometry.
+- 🌱 I’m currently learning AI and deep learning algorithms.
+- 💞️ I’m looking to collaborate on computational projects.
 
 <!---
 J-paredes/J-paredes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
