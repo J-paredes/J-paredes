@@ -4,12 +4,12 @@ I’m a PhD-trained scientist working at the intersection of chemistry, omics, a
 Omics data analysis (RNA-seq, proteomics, metabolomics)
 Statistical modeling and data visualization
 Data workflows in R, Python, and SQL
-📊 Featured Projects
+- 📊 Featured Projects
 🔹 RNA-seq Differential Expression Analysis
 End-to-end analysis using DESeq2, including preprocessing, statistical testing, and visualization
 🔹 SQL + Data Analysis Project (coming soon)
 Querying and analyzing structured datasets to extract insights
-🛠️ Tools & Technologies
+- 🛠️ Tools & Technologies
 Languages: R, Python, SQL
 Libraries: DESeq2, tidyverse, pandas, matplotlib
 Data: Omics datasets, high-dimensional biological data
