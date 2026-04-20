@@ -10,9 +10,9 @@ End-to-end analysis using DESeq2, including preprocessing, statistical testing, 
 🔹 SQL + Data Analysis Project (coming soon)
 Querying and analyzing structured datasets to extract insights
 - 🛠️ Tools & Technologies
-Languages: R, Python, SQL
-Libraries: DESeq2, tidyverse, pandas, matplotlib
-Data: Omics datasets, high-dimensional biological data
+ -- Languages: R, Python, SQL
+ -- Libraries: DESeq2, tidyverse, pandas, matplotlib
+ -- Data: Omics datasets, high-dimensional biological data
 <!---
 J-paredes/J-paredes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
