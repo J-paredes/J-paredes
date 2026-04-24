@@ -8,7 +8,8 @@ I focus on analyzing complex biological datasets and translating them into meani
 - Data workflows in R, Python, and SQL
 
 ## 📊 Featured Projects
-🔹 **bulk-transcriptomics-deseq2-analysis**  
+🔹 Bulk RNA-Seq Differential Expression Analysis
+  *bulk-transcriptomics-deseq2-analysis* 
   End-to-end analysis using DESeq2, including preprocessing, statistical testing, and visualization  
   
 
