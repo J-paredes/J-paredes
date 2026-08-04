@@ -11,9 +11,6 @@ I focus on analyzing complex biological datasets and translating them into meani
 🔹 **Bulk RNA-Seq Differential Expression Analysis**  
   End-to-end analysis using DESeq2, including preprocessing, statistical testing, and visualization  ([*bulk-transcriptomics-deseq2-analysis*]())  
 
-🔹 **Machine Learning for Biomarker Discovery and Modeling** *(coming soon)*  
-  Applying supervised and unsupervised learning approaches to identify predictive biomarkers and model biological outcomes from high-dimensional omics data  
-
 🔹 **SQL + Data Analysis Project** *(coming soon)*  
   Querying and analyzing structured datasets to extract insights  
 
